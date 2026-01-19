@@ -59,3 +59,26 @@ footer {
     border-radius: 10px;
     object-fit: cover;
 }
+.gallery figure {
+    margin: 0;
+    text-align: center;
+}
+
+.gallery figcaption {
+    margin-top: 8px;
+    font-size: 0.95rem;
+    color: #555;
+}
+.gallery figure {
+    margin: 0;
+    text-align: center;
+}
+
+.gallery figcaption {
+    margin-top: 8px;
+    font-size: 0.95rem;
+    color: #555;
+}
+
+
+
