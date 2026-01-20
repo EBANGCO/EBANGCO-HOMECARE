@@ -132,5 +132,23 @@ footer {
 .contact-form button:hover {
     background-color: #1a5bb8;
 }
+.services {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 25px;
+    margin-top: 30px;
+}
+
+.service-box {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.service-box h3 {
+    margin-top: 0;
+    color: #2c7be5;
+}
 
 
